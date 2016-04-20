@@ -1,0 +1,1 @@
+/home/lpc/source/opencv/trycamera/CMakeFiles/trycamera.dir
